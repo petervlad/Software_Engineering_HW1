@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tema1.BusinessLogic.CashierService" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAACAAAAAAAAAACCAAAAACAAAAAAAEIAAAA=</HashCode>
+      <FileName>BusinessLogic\CashierService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.EventService" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAIAAAAACAAAAAAAAAAAAAEACAAA=</HashCode>
+      <FileName>BusinessLogic\EventService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.ManagerService" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAABAAAAAAACCAAAAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>BusinessLogic\ManagerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.TicketService" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAACAAAAAAAAAAACAAAAAAAAAAAAAUAEAAA=</HashCode>
+      <FileName>BusinessLogic\TicketService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.TicketModel" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLogic.Model\TicketModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.Model.CashierModel" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLogic.Model\CashierModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.Model.EventModel" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAIA=</HashCode>
+      <FileName>BusinessLogic.Model\EventModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.BusinessLogic.Model.ManagerModel" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLogic.Model\ManagerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.CashierRepo" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAIAAAAAAAAAAAIACAAAAAAAAAiAAA=</HashCode>
+      <FileName>DataAccess\CashierRepo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.DataAccess" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.EventRepo" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAgCAAA=</HashCode>
+      <FileName>DataAccess\EventRepo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.ManagerRepo" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\ManagerRepo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.TicketRepo" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>DataAccess\TicketRepo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.Model.CashierDTO" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess.Model\CashierDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.Model.EventDTO" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAIA=</HashCode>
+      <FileName>DataAccess.Model\EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.Model.ManagerDTO" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess.Model\ManagerDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.DataAccess.Model.TicketDTO" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess.Model\TicketDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.CashierForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACBAABAAUACAAAACAAgIAAAIAEAIAAAQIAA=</HashCode>
+      <FileName>Presentation\CashierForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Form1" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACDAAAACCACACACAAABAAAAQAAAAAAAA=</HashCode>
+      <FileName>Presentation\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Program" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSet" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwEICBJCBAAIQAAAAggSRBgAAAAAAAEgBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.ManagerForm" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAiAAAgQCAQABAAAASAAAACEAAAQGAAAIAAAAAAAQA=</HashCode>
+      <FileName>Presentation\ManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSetTableAdapters.CashierTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSetTableAdapters.EventTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSetTableAdapters.ManagerTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSetTableAdapters.TicketTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Presentation.HW1DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAACAAAABCBAEhCAAAMAAgAAACgAAAABRCBAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tema1.Properties.Settings" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

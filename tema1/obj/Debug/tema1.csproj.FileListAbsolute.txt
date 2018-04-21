@@ -1,0 +1,13 @@
+c:\users\peter\documents\visual studio 2013\Projects\tema1\tema1\bin\Debug\tema1.exe
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.CashierForm.resources
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.Form1.resources
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.Presentation.ManagerForm.resources
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.Cache
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\bin\Debug\tema1.exe.config
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\bin\Debug\AutoMapper.dll
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\bin\Debug\AutoMapper.xml
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.exe
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.pdb
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\bin\Debug\tema1.pdb
+C:\Users\peter\documents\visual studio 2013\Projects\Tema1\tema1\obj\Debug\tema1.csprojResolveAssemblyReference.cache
